@@ -1,0 +1,6 @@
+.config/
+sample_data/
+3D-ADAM_anomalib/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
