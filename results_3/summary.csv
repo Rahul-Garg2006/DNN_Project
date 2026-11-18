@@ -1,0 +1,4 @@
+model,test_accuracy,test_macro_f1,acc_on_bast,acc_on_d3d,acc_on_defcls,params_M,best_epoch,train_minutes
+simple_cnn,0.828,0.813,1.0,0.742,0.818,1.0,21,54.2
+resnet50,0.938,0.932,0.992,0.837,0.957,23.5,10,27.7
+vit_small,0.915,0.905,0.964,0.756,0.952,21.7,5,20.3
